@@ -1,6 +1,7 @@
-# Hi! Im Nathan Rajkumar, Senior Full Stack Developer ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi! Im Nathan Rajkumar, Senior Full Stack Developer ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+## Java | React | Angular | Typescript | Spring Boot | MySQL | PostgreSQL
 
-I am a passionate and experienced full-stack developer with over 8 years of experience in designing, developing, and maintaining scalable and secure applications. My expertise spans a wide range of technologies, and I excel at building solutions that drive efficiency and innovation.
+ I am a passionate and experienced full-stack developer with over 8 years of experience in designing, developing, and maintaining scalable and secure applications. My expertise spans a wide range of technologies, and I excel at building solutions that drive efficiency and innovation.
 
 ## 💬 Get In Touch
 
