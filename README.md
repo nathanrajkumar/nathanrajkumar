@@ -32,7 +32,7 @@
 - ![Teamwork](https://img.shields.io/badge/Teamwork-0077B5?style=for-the-badge&logo=teams&logoColor=white) **Cross-functional Collaboration**: Experience working with developers, designers, and stakeholders to deliver end-to-end solutions.
 - ![Leadership](https://img.shields.io/badge/Leadership-FF0000?style=for-the-badge&logo=leaderboard&logoColor=white) **Leadership**: Proven ability to lead technical teams on complex, high-impact projects.
 
-- ## 🔥 Featured Projects
+## 🔥 Featured Projects
 
 While I have worked on multiple private repositories ranging from startup to large enterprise, I have starred a couple of projects for your consideration:
 
